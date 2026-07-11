@@ -1,0 +1,15 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic-settings>=2.2.1
+loguru>=0.7.2
+sqlalchemy>=2.0.28
+asyncpg>=0.29.0
+alembic>=1.13.1
+greenlet>=3.0.3
+redis>=5.0.1
+websockets>=12.0
+# ML dependencies
+xgboost>=3.3.0
+scikit-learn>=1.9.0
+joblib>=1.4.0
+numpy>=2.0.0

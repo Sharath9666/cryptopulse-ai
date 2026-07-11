@@ -1,0 +1,3 @@
+"""
+CryptoPulse AI app package.
+"""
